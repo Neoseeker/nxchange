@@ -1,0 +1,171 @@
+body {	
+	background-image: url(../images/bg.gif);
+    font-size: 76%;
+    font-family:Verdana;
+    font-weight:normal;
+}
+
+p {
+	font-size: 1.0em;
+}
+
+td {	
+    font-size: 0.7em;
+    font-family:Verdana;
+    font-weight:normal;
+}
+
+user_info {	
+    font-size: 0.7em;
+    font-family:Verdana;
+    font-weight:normal;
+}
+
+.Button {
+	background-color:#F23333;
+    border-color:#F23333;
+    border-style:solid;
+    font-size:1.0em;
+    color:white;
+    font-family:Verdana;
+    font-weight:bold;   
+    width: 40px;
+}
+
+.ButtonOn {
+	background-color:black;
+    border-color:#F23333;
+    border-style:solid;
+    font-size:1.0em;
+    color:white;
+    font-family:Verdana;
+    font-weight:bold;   
+    width: 40px;
+}
+
+.Select {
+	background-color:#FFFFFF;
+    border-color:#00A0FF;
+    border-style:solid;
+    font-size:1.0em;
+    font-family:Verdana;
+    font-weight:bold;    
+}
+
+
+.Input {
+	background-color:#FFFFFF;
+    border-color:#00A0FF;
+    border-style:solid;
+    font-size:1.0em;
+    font-family:Verdana;
+    font-weight:bold;    
+}
+
+#topmenu a {
+    color: #000000;
+    font-size:10px;
+    font-family:verdana;
+    font-weight:bold;
+    text-decoration: none;
+    width: 110px;
+    background-color:#00A0FF;
+}
+
+#topmenu a:hover {
+    background-color: #66C0FF;
+    color:#000000;   
+}
+
+.title {
+    color: #FFFFFF;
+    font-size:10px;
+    font-family:verdana;
+    font-weight:bold;
+    text-decoration: none;  
+}
+
+.offerlead {
+	color: #000099;
+	font-weight:bold;
+}
+#offercomment {
+	background-color: white;
+	border: 1px solid #999999;
+	padding: 5px;
+}
+
+#leftmenu a {
+	padding-left: 10px;
+    color: #003366;
+    font-size: 1.2em;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:normal;
+    text-decoration: none;
+    width: 120px;
+	display: block;
+}
+
+#leftmenu a:hover {
+    background-color: #BCC1C5;
+    color:#003366;
+}
+
+
+#negtab a {
+    color: #FFFFFF;
+    font-size: 0.9em;
+    font-family:verdana;
+    font-weight:bold;
+    text-decoration: none;
+    width: 60px;
+    background-color: 336699;
+    padding: 2px;
+    border: 1px solid #ffffff;
+}
+
+#negtab a:hover {
+    background-color: #66C0FF;
+    color:#000000;   
+}
+
+#listtable {
+   border: 1px solid #999999;
+}
+
+#error {
+	font-size:1.0em;
+	color: red;
+}
+
+.community {
+	line-height:18px;
+	width: 225px; 
+	float: right;
+	background-color: white;
+	border: 1px solid #999999;
+	padding:3px;
+}
+
+#beta {
+	position: absolute;
+	left: 550px;
+	top: 100px;
+	border: 0;
+}
+
+#info {
+	position: relative;
+	left: 85px;
+	top: -25px;
+}
+
+#noline {
+	text-decoration: none;
+}
+
+.neonetwork p {
+	display: none;
+}
+
+#debug_box {background-color: #F0F0F0;}
